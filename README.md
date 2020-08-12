@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-19 - 
+## Boilerplate Repository - Challenge-19 - The Four Color Theorem
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
